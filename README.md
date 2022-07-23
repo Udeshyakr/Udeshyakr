@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Udeshyakr
 - 👀 I’m interested in Blockchain and CryptoCurrency.
-- 🌱 I’m currently learning Solidity and ReactJs
+- 🌱 I’m currently learning ReactJs and Smart Contract Security.
 - 💞️ I’m looking to collaborate on Blockchain projects in Ethereum.
 - 📫 Reach me at - Udeshyakumar@gmail.com
 
